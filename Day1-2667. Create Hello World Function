@@ -1,0 +1,15 @@
+# Day 1
+<br>
+## 1. [2667. Create Hello World Function](https://leetcode.com/problems/create-hello-world-function/description/?envType=study-plan-v2&envId=30-days-of-javascript)
+```JS
+
+var createHelloWorld = function() {
+    const greeting="Hello World";
+    return function(...args) {
+        return greeting;
+    };
+};
+
+const f = createHelloWorld();
+f();
+```
