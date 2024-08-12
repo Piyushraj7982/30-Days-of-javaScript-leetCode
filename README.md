@@ -1,6 +1,7 @@
 # 30 Days of JavaScript - LeetCode Challenge
 
 [🎯Learn JS Basics with 30 Qs🎯](https://leetcode.com/studyplan/30-days-of-javascript/)
+
 Welcome to the **30 Days of JavaScript - LeetCode Challenge** repository! This repository is dedicated to solving and mastering JavaScript through LeetCode's 30-day challenge. By working through these problems daily, you will strengthen your JavaScript skills and be well-prepared for coding interviews.
 
 ## 📝 Table of Contents
