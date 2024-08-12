@@ -25,13 +25,13 @@ JavaScript is a versatile and widely-used programming language that powers the w
 To get started, simply clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/30-days-of-javascript-leetcode.git
+https://github.com/Piyushraj7982/30-Days-of-javaScript-leetCode.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd 30-days-of-javascript-leetcode
+cd 30-Days-of-javaScript-leetCode
 ```
 
 ## Resources
